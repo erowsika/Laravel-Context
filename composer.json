@@ -1,5 +1,6 @@
 {
     "name": "erowsika/laravel-context",
+    "version": "0.0.1",
     "description": "Provides Service Provider binding depending on a context forked from rtroncoso/laravel-context",
     "homepage": "https://github.com/erowsika/laravel-context",
     "license": "WTFPL (Do What The Fuck You Want To Public License)",
